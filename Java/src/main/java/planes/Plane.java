@@ -8,7 +8,7 @@ public abstract class Plane {
     private int maxFlightDistance;
     private int maxLoadCapacity;
 
-    public Plane(String model,
+    protected Plane(String model,
                  int maxSpeed,
                  int maxFlightDistance,
                  int maxLoadCapacity) {

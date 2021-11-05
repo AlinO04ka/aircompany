@@ -1,3 +1,5 @@
+package aircompany;
+
 import models.MilitaryType;
 import planes.MilitaryPlane;
 import planes.PassengerPlane;
